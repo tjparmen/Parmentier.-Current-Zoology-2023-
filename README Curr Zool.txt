@@ -34,7 +34,7 @@ Thomas Parmentier, Differential transport of a guild of mutualistic root aphids 
 
 DATA & FILE OVERVIEW
 
-The data is stored in two.txt files
+The data is stored in two.txt files (the data is also available as supplementary material in the original publication: ESM3 - data.xlsx)
 
 no-choice experiment and behav.txt
 
